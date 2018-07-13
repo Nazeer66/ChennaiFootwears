@@ -1,0 +1,20 @@
+app.config(function($routeProvider){
+    $routeProvider
+    .when('/' , {
+        templateUrl:"views/home.html"
+    })
+    .when("/prod",{
+        templateUrl:"views/product.html",
+        controller:"productCtrl"
+    })
+    .when("/service",{
+        templateUrl:"views/service.html"
+    })
+    .when("/contact",{
+        templateUrl:"views/contact.html",
+        controller:"contactCtrl"
+    }) 
+    .otherwise({
+        redirectTO:"/"
+    });
+})

@@ -1,0 +1,39 @@
+{
+	"data": [{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus1."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus2."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		},
+		{
+			"img": "images/sample.jpg",
+			"text": "Lorem ipsum donec id elit non mi porta gravida at eget metus3."
+		}
+	]
+}

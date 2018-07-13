@@ -1,0 +1,27 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+
+/* contact */
+.contact{
+    font-size: 2.5em;
+    color: #454445;
+    margin: 0 0 0.8em 0;
+    line-height: 1.5em;
+    text-transform: capitalize;
+    font-family: inherit;
+}
+
+/* footer part */
+.footer {
+    padding: 10px;
+    background-color: #454545;
+    color: white;
+    text-align: center;
+ }  
+
+
+
+ /* Signup page */
+ 
